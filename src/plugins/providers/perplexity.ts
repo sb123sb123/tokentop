@@ -105,6 +105,7 @@ export const perplexityPlugin: ProviderPlugin = {
         headers: {
           Authorization: `Bearer ${credentials.apiKey}`,
           "Content-Type": "application/json",
+          "X-Pplx-Integration": "tokentop",
         },
         body: JSON.stringify({
           model: "sonar",
