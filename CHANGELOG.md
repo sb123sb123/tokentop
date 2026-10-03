@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.0](https://github.com/tokentopapp/tokentop/compare/v0.7.0...v0.8.0) (2026-10-03)
+
+
+### Features
+
+* **providers:** attribute Perplexity requests ([#112](https://github.com/tokentopapp/tokentop/issues/112)) ([369a89c](https://github.com/tokentopapp/tokentop/commit/369a89c0d5089ee8a08e7c779eeae240e80bc0a0))
+
 ## [0.7.0](https://github.com/tokentopapp/tokentop/compare/v0.6.1...v0.7.0) (2026-04-17)
 
 
